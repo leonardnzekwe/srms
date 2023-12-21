@@ -1,6 +1,6 @@
 # Netrobase SRMS REST API DOCS
 
-Netrobase SRMS is a Student Result Management System. I hope to explain its application logic and how to interact with the API - [srms-api.netrobase.dev](https://srms-api.netrobase.dev), with few details in the frontend implementation [srms.netrobase.dev](https://srms.netrobase.dev). This could be handy whilst building your own robust and global student result management system (or consider using this one), this is actually the API documentation as it is in the codebase (private repo). The codebase powers multiple schools' result portals, hence it is quite robust.
+Netrobase SRMS is a Student Result Management System. I hope to explain its application logic and how to interact with the API - [srms-api.netrobase.dev](https://srms-api.netrobase.dev), with few details in the frontend implementation [srms.netrobase.dev](https://srms.netrobase.dev). This could be handy whilst building your own robust and global student result management system (or consider using this one), this is actually the API documentation as it is in the codebase (private repo) and official documentation - [srms-docs.netrobase.dev](https://srms-docs.netrobase.dev). The codebase powers multiple schools' result portals, hence it is quite robust.
 
 ## About Dev:
 * Name: Leonard Nzekwe
